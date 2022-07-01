@@ -1,6 +1,7 @@
 @import 'base/variables';
 * {
   font-family: 'Museo Sans Cyrl', sans-serif;
+  box-sizing: border-box;
 }
 
 .container {
@@ -15,6 +16,10 @@
 @import 'block/consult.scss';
 @import 'block/title.scss';
 @import 'block/forms.scss';
+@import 'block/carusel.scss';
+@import 'block/catalog.scss';
+@import 'block/reviews.scss';
+@import 'block/footer.scss';
 @import 'block/media.scss';
 
 
