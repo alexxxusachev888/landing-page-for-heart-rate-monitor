@@ -23,6 +23,9 @@
     &__img {
         display: flex;
         justify-content: center;
+        &_animation {
+            animation: heartbeat 1.5s ease infinite;
+        }
     }
     &__subheader {
         margin-top: 35px;
